@@ -22,14 +22,22 @@ git clone https://github.com/~~ご自身のアカウント~~/til.git
 できたらプッシュ。
 
 ```
-git remote rm origin
-git init
-git add .
-git commit -m"changed title"
-git remote add origin https://github.com/wechlog/til.git
-git push -u origin master
+git remote rm origin // 必要に応じて
+git init // 必要に応じて
+git add . // 変更をステージ
+git commit -m"changed title" // コミット
+git remote add origin https://github.com/~~ご自身のアカウント~~/til.git // リモートへ追加
+git push -u origin master // プッシュ
 ```
 
 GitHub上でプルリクエストする。
 
 僕がマージして反映させます。
+
+簡素に書いているので、詳細は別途聞いていただくか、以下の備忘録を参考にしてみてください。
+
+Gitの基本
+https://chobimusic.com/github/
+
+Gitを複数のアカウントで利用(プルリク)してみる。
+https://chobimusic.com/git-pull-request/
