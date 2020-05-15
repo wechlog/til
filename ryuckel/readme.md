@@ -1,11 +1,11 @@
-this is readme text.
+# やることを書いていく
 
-# terraform to AWS
+## terraform to AWS
 
 - https://dev.classmethod.jp/articles/terraform-getting-started-with-aws/
 - https://www.terraform.io/docs/providers/aws/index.html
 
-# creating gem,module,npm packages
+## creating gem,module,npm packages
 
 - gem
 
