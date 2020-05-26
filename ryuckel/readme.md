@@ -8,7 +8,6 @@
 ## creating gem,module,npm packages
 
 - gem
-
 https://qiita.com/yu-croco/items/a93693d02ca39ac38f78
 https://qiita.com/9sako6/items/72994b8b1c00af4e61fe
 
