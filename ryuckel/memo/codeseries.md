@@ -83,7 +83,7 @@ Cloudwatch Logs にビルドログとビルド結果が送信される
 EC2 インスタンス、ECS、Lambda へのデプロイ
 Blue/Green デプロイの実施も可能
 
-画像
+![スクリーンショット 2020-06-01 23 43 47](https://user-images.githubusercontent.com/36391432/83421941-c7431000-a463-11ea-9fe9-a9847e9b1f9c.png)
 
 ### デプロイタイプ
 
@@ -94,6 +94,8 @@ Blue/Green デプロイの実施も可能
 
 リリースプロセスの自動化
 手動の承認プロセスの追加も可能
+
+![スクリーンショット 2020-06-01 23 46 20](https://user-images.githubusercontent.com/36391432/83421997-dd50d080-a463-11ea-852f-aafcecf6f7ec.png)
 
 ### 連携できるサービス
 
