@@ -15,7 +15,9 @@ AWS リソースの自動構築
 
 JSON または YAML 形式で記載していく
 
-画像
+
+![スクリーンショット 2020-06-02 8 22 18](https://user-images.githubusercontent.com/36391432/83465140-e36b9f00-a4ad-11ea-96bd-7d634806bace.png)
+
 
 ### セクション
 
