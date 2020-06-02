@@ -254,6 +254,9 @@ KMSを利用して保存データを暗号化できます。暗号化の設定�
 使用するKMSのキーはすべてのテーブルで共通であり、テーブルごとに異なるキーを使用することはできません。  
 また、DynamoDBへのアクセスはIAMポリシーを利用して制御するため、暗号化されたテーブルにアクセスする場合は、KMSへのアクセス許可があるIAMポリシーが必要です。
 
+## その他
+- グローバルセカンダリインデックス(GSI)
+https://docs.aws.amazon.com/ja_jp/amazondynamodb/latest/developerguide/GSI.html
 
 
 
