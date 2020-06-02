@@ -20,7 +20,8 @@
 DynamoDB、Kinesis Stream をトリガーとするストリームベース
 SQS のキューをトリガーとするキューベース
 
-画像
+
+![スクリーンショット 2020-06-02 13 27 16](https://user-images.githubusercontent.com/36391432/83480583-c8f9eb80-a4d6-11ea-9f70-11bb4422f32e.png)
 
 ## 関数の作成
 
@@ -61,13 +62,13 @@ DB の接続情報など
 上限に達するとスロットリングされて実行されない
 イベントのソースによって処理方法が変わる
 
-画像
+![スクリーンショット 2020-06-02 13 27 02](https://user-images.githubusercontent.com/36391432/83480588-cbf4dc00-a4d6-11ea-83a6-32f514df2fd9.png)
 
 ## Lambda 関数のリトライ
 
 失敗してリトライするときの処理
 
-画像
+![スクリーンショット 2020-06-02 13 26 56](https://user-images.githubusercontent.com/36391432/83480591-cc8d7280-a4d6-11ea-987c-08114a0d8007.png)
 
 ## Lambda 関数ポリシーと実行ロール
 
